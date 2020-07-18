@@ -11,3 +11,6 @@ Build for learning React with React Hooks, Context, and React Router also using 
 * useParams
 * etc
 
+
+
+![Screenshot](https://i.ibb.co/nB6m2Pp/blogfront.png)
